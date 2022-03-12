@@ -7,7 +7,7 @@ if(midMarks >= 50 && classAttendace >= 75){
 }
 else{
     console.log("you're not allowed")
-}/
+}
 
 // for loop 
 
