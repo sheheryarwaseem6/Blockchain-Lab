@@ -1,9 +1,9 @@
-// array= [1,2,3,["sheri","Hamza","Abdal"],5]
+array= [1,2,3,["sheri","Hamza","Abdal"],5]
 
-// array.map((element, index) => {
-//     console.log(element)
-//     console.log(index)
-// });
+array.map((element, index) => {
+    console.log(element)
+    console.log(index)
+});
 
 
 let students =[
@@ -72,3 +72,9 @@ students.map((element)=>{
         }
     })
 })
+
+
+
+
+
+
